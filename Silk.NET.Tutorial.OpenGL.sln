@@ -1,0 +1,103 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 1.3 - Textures", "Tutorial 1.3 - Textures\Tutorial 1.3 - Textures.csproj", "{C7B7753D-5CC4-40A3-991C-C8C61EDAC947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 1.4 - Abstractions", "Tutorial 1.4 - Abstractions\Tutorial 1.4 - Abstractions.csproj", "{3FBF20B1-D780-4A33-A7F6-A7E49CD3F7B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 1.5 - Transformations", "Tutorial 1.5 - Transformations\Tutorial 1.5 - Transformations.csproj", "{8AEB4D8F-7BAE-4150-815A-5EA83B9FC943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 2.1 - Co-ordinate Systems", "Tutorial 2.1 - Co-ordinate Systems\Tutorial 2.1 - Co-ordinate Systems.csproj", "{1F50EDEF-3F88-4153-810D-768DE087DD38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 2.2 - Camera", "Tutorial 2.2 - Camera\Tutorial 2.2 - Camera.csproj", "{D799532B-1959-4E5E-AC9D-6FE3CE8FB77A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 3.1 - Ambient Lighting", "Tutorial 3.1 - Ambient Lighting\Tutorial 3.1 - Ambient Lighting.csproj", "{429684AE-464B-49CD-B113-BFC3467F8933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 3.2 - Diffuse Lighting", "Tutorial 3.2 - Diffuse Lighting\Tutorial 3.2 - Diffuse Lighting.csproj", "{A5529628-6742-4AE9-9D34-D3DB5666F419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 3.3 - Specular Lighting", "Tutorial 3.3 - Specular Lighting\Tutorial 3.3 - Specular Lighting.csproj", "{9F74BDEA-6A94-40E7-B228-A0BE6149D563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 3.4 - Materials", "Tutorial 3.4 - Materials\Tutorial 3.4 - Materials.csproj", "{8D6A11F0-18EF-4110-B8CD-EE9879D6C1C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 3.5 - Lighting Maps", "Tutorial 3.5 - Lighting Maps\Tutorial 3.5 - Lighting Maps.csproj", "{D3DFC550-536C-4A5E-8FE1-5AAD37F17886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 4.1 - Model Loading", "Tutorial 4.1 - Model Loading\Tutorial 4.1 - Model Loading.csproj", "{0BB43303-4FCE-4014-B0E5-651164493CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 1.1 - Hello Window", "Tutorial 1.1 - Hello Window\Tutorial 1.1 - Hello Window.csproj", "{52CECE25-5556-4F76-B130-F0882D6F4895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 1.2 - Hello quad", "Tutorial 1.2 - Hello quad\Tutorial 1.2 - Hello quad.csproj", "{2940B363-5E8B-42B6-8A1C-048C5750F313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 5.1 - ImGui", "Tutorial 5.1 - ImGui\Tutorial 5.1 - ImGui.csproj", "{93B8EA3D-C22D-488F-9857-756540BC05F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B7753D-5CC4-40A3-991C-C8C61EDAC947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B7753D-5CC4-40A3-991C-C8C61EDAC947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B7753D-5CC4-40A3-991C-C8C61EDAC947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B7753D-5CC4-40A3-991C-C8C61EDAC947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBF20B1-D780-4A33-A7F6-A7E49CD3F7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBF20B1-D780-4A33-A7F6-A7E49CD3F7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBF20B1-D780-4A33-A7F6-A7E49CD3F7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBF20B1-D780-4A33-A7F6-A7E49CD3F7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEB4D8F-7BAE-4150-815A-5EA83B9FC943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEB4D8F-7BAE-4150-815A-5EA83B9FC943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEB4D8F-7BAE-4150-815A-5EA83B9FC943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEB4D8F-7BAE-4150-815A-5EA83B9FC943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F50EDEF-3F88-4153-810D-768DE087DD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F50EDEF-3F88-4153-810D-768DE087DD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F50EDEF-3F88-4153-810D-768DE087DD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F50EDEF-3F88-4153-810D-768DE087DD38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D799532B-1959-4E5E-AC9D-6FE3CE8FB77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D799532B-1959-4E5E-AC9D-6FE3CE8FB77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D799532B-1959-4E5E-AC9D-6FE3CE8FB77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D799532B-1959-4E5E-AC9D-6FE3CE8FB77A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429684AE-464B-49CD-B113-BFC3467F8933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429684AE-464B-49CD-B113-BFC3467F8933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429684AE-464B-49CD-B113-BFC3467F8933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429684AE-464B-49CD-B113-BFC3467F8933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5529628-6742-4AE9-9D34-D3DB5666F419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5529628-6742-4AE9-9D34-D3DB5666F419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5529628-6742-4AE9-9D34-D3DB5666F419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5529628-6742-4AE9-9D34-D3DB5666F419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F74BDEA-6A94-40E7-B228-A0BE6149D563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F74BDEA-6A94-40E7-B228-A0BE6149D563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F74BDEA-6A94-40E7-B228-A0BE6149D563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F74BDEA-6A94-40E7-B228-A0BE6149D563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6A11F0-18EF-4110-B8CD-EE9879D6C1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6A11F0-18EF-4110-B8CD-EE9879D6C1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6A11F0-18EF-4110-B8CD-EE9879D6C1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6A11F0-18EF-4110-B8CD-EE9879D6C1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3DFC550-536C-4A5E-8FE1-5AAD37F17886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DFC550-536C-4A5E-8FE1-5AAD37F17886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DFC550-536C-4A5E-8FE1-5AAD37F17886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DFC550-536C-4A5E-8FE1-5AAD37F17886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB43303-4FCE-4014-B0E5-651164493CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB43303-4FCE-4014-B0E5-651164493CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB43303-4FCE-4014-B0E5-651164493CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB43303-4FCE-4014-B0E5-651164493CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CECE25-5556-4F76-B130-F0882D6F4895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CECE25-5556-4F76-B130-F0882D6F4895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CECE25-5556-4F76-B130-F0882D6F4895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CECE25-5556-4F76-B130-F0882D6F4895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2940B363-5E8B-42B6-8A1C-048C5750F313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2940B363-5E8B-42B6-8A1C-048C5750F313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2940B363-5E8B-42B6-8A1C-048C5750F313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2940B363-5E8B-42B6-8A1C-048C5750F313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B8EA3D-C22D-488F-9857-756540BC05F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B8EA3D-C22D-488F-9857-756540BC05F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B8EA3D-C22D-488F-9857-756540BC05F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B8EA3D-C22D-488F-9857-756540BC05F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0C92475-5114-478F-9777-8DABBCA22C7D}
+	EndGlobalSection
+EndGlobal
